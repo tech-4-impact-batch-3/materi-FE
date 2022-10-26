@@ -1,0 +1,16 @@
+.profile-img {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.profile-info {
+  margin-left: 20px;
+}
+
+.profile-container {
+  margin-left: 100px;
+  display: flex;
+}
